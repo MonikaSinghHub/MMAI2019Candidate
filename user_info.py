@@ -1,7 +1,7 @@
 import mysql.connector
 
 def create_table():
-    con = mysql.connector.connect(user='root', password='monika', host='localhost', port='3306', database='user_db')
+    con = mysql.connector.connect(user='*********', password='************', host='localhost', port='3306', database='user_db')
     cursor = con.cursor()
     cursor.execute(
         "CREATE TABLE user_info(customer_id INTEGER, first_name VARCHAR, last_name VARCHAR, age INTEGER, sex VARCHAR, race VARCHAR, observation VARCHAR)")
@@ -9,7 +9,7 @@ def create_table():
     con.close()
 
 def enter_data(custId,firstName,lastName,age,sex,race,observation):
-    con = mysql.connector.connect(user='root', password='monika', host='localhost', port='3306', database='user_db')
+    con = mysql.connector.connect(user='*********', password='************', host='localhost', port='3306', database='user_db')
     cursor = con.cursor()
 
     try:
@@ -29,7 +29,7 @@ def enter_data(custId,firstName,lastName,age,sex,race,observation):
     con.close()
 
 def read_from_db(userId):
-    con = mysql.connector.connect(user='root', password='monika', host='localhost', port='3306', database='user_db')
+    con = mysql.connector.connect(user='*********', password='************', host='localhost', port='3306', database='user_db')
     cursor = con.cursor()
     cursor.execute("select * from user_info where customer_id= %s", (userId,))
     data = cursor.fetchall()
