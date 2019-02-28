@@ -6,9 +6,7 @@ Artificial Intelligence
 - [Link to Install NLTK](https://www.nltk.org/install.html)
 
 '
- hi there
- how are you
- blah blah blah
+#include<iostream>
 '
 - [Stanford NLP Software](https://stanfordnlp.github.io/CoreNLP/)
 
