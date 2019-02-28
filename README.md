@@ -6,6 +6,5 @@ Artificial Intelligence
 - [Link to Install NLTK](https://www.nltk.org/install.html)
 - [Stanford NLP Software](https://stanfordnlp.github.io/CoreNLP/)
   `This article talks about the challenges that lie ahead of AI with respect to different languages`
-  AI’s Next Great Challenge: Understanding the Nuances of Language
 
 
