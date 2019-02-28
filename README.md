@@ -5,8 +5,8 @@ Artificial Intelligence
 - [AI Harvard Business Review](https://hbr.org/2018/07/ais-next-great-challenge-understanding-the-nuances-of-language)
 - [Link to Install NLTK](https://www.nltk.org/install.html)
 
-'
+`
 #include<iostream>
-'
+`
 - [Stanford NLP Software](https://stanfordnlp.github.io/CoreNLP/)
 
