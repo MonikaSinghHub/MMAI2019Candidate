@@ -6,5 +6,5 @@ Artificial Intelligence
 - [Link to Install NLTK](https://www.nltk.org/install.html)
 - [Stanford NLP Software](https://stanfordnlp.github.io/CoreNLP/)
   
-
+just checking for typos heelo my nam is Victory 
 
