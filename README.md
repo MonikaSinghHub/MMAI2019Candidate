@@ -17,7 +17,7 @@ Human-Computer Communication in Natural Language
 # Online Demos
 
 - [Cognitive Computation Group - Part of Speech Tagging Demo](http://cogcomp.org/page/demos/) These demos exhibit part-of-speech tagging, information extraction tasks etc.
-- [An Open-Source Suite of Language Analyzers](http://nlp.lsi.upc.edu/freeling/demo/demo.php) FreeLing 4.1 - An Open-Source Suite of Language Analyzers
+- [An Open-Source Suite of Language Analyzers](http://nlp.lsi.upc.edu/freeling/demo/demo.php) FreeLing 4.1 - It is an open-source suite of language analyzers
 
 
 # APIs and Libraries:
